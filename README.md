@@ -1,6 +1,10 @@
 ### Hi, I'm Hoa Vy! 👋
 
-I'm a Software engineer with strong focus on crafting efficient and scalable softwares. 
+I'm a Software Engineer with strong focus on crafting efficient and scalable softwares.
+
+### Certifications
+- [AWS Certified Solutions Architect – Associate](https://www.credly.com/badges/a5a20652-bdbb-48e8-bc05-dbc395fee288/public_url)
+- [AWS Certified Developer – Associate](https://www.credly.com/badges/bdaf228e-c52e-4113-b05a-e64507c20781/public_url)
 
 ### Badges
 
